@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @felipevaz06
-- 👀 Estou interessado em banco de dados e programação mobile (flutter)
-- 📫 How to reach me (insta: felipe.vaz_)
+- 👋 Felipe Augusto
+- 👀 Estudando novas tecnologias de desenvolvimento: Flutter e Firebase
+- Seguindo na carreira de dados
 
 <!---
 felipevaz06/felipevaz06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
